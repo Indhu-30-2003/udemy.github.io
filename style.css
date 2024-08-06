@@ -102,11 +102,11 @@ body{
 }
 .saleimage__offer{
     border: 2px solid black;
-    padding:10px;
+    padding:5px;
     background-color: transparent;
     width:350px;
     position: absolute;
-    top:50px;
+    top:30px;
     left:50px;
     animation-name: sale;
     animation-duration: 3s;
