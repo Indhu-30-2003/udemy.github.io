@@ -214,7 +214,12 @@ body{
         flex-basis: 40%;
     }
     .saleimage__offer{
-        width:200px;
+        width:250px;
+        padding: 5px;
+        background-color:transparent;
+        left:30px;
+        top: 30px;
+        
     }
     .categories p{
         flex-grow: 1;
